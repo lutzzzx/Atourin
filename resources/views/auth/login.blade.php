@@ -18,14 +18,14 @@
                     <div class="col-md-8 col-lg-6 col-xl-5">
 
                         <div class="mb-4 d-flex justify-content-center pb-2">
-                            <h2>Atourin</h2>
+                            <h2>Leavin</h2>
                         </div>
 
                         <div class="card">
                             <div class="card-body p-4">
                                 <div class="text-center mt-2">
                                     <h5>Selamat Datang, lagi!</h5>
-                                    <p class="text-muted">Login untuk masuk ke Atourin.</p>
+                                    <p class="text-muted">Login untuk masuk ke Leavin.</p>
                                 </div>
                                 <div class="p-2 mt-4">
                                     <form method="POST" action="{{ route('login') }}">
@@ -84,7 +84,7 @@
                             <p>©
                                 <script>
                                     document.write(new Date().getFullYear())
-                                </script> Atourin. Crafted with <i class="mdi mdi-heart text-danger"></i> by Upi Biy
+                                </script> Leavin. Crafted with <i class="mdi mdi-heart text-danger"></i> by Upi Biy
                             </p>
                         </div>
                     </div>

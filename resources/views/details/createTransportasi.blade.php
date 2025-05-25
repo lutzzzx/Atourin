@@ -17,7 +17,7 @@
         <div class="col-xl-12">
             <div class="card">
                 <div class="card-header">
-                    <h5 class="card-title mb-0">Tambah Destinasi</h5>
+                    <h5 class="card-title mb-0">Tambah Transportasi</h5>
                 </div>
                 <div class="card-body">
                     <form action="{{ route('details.store', $agenda) }}" method="POST" id="form-tambah-agenda">
