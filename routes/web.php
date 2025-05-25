@@ -18,6 +18,10 @@ Route::get('/', function () {
     }
 });
 
+Route::get('/terms-and-conditions', function () {
+    return view('auth.terms');
+})->name('terms.show');
+
 Route::middleware(['auth'])->group(function () {
     Route::get('/agendas', [AgendaController::class, 'index'])->name('agendas.index');
     Route::get('/agendas/search', [AgendaController::class, 'search'])->name('agendas.search');

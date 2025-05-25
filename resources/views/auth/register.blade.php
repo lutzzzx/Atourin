@@ -69,7 +69,7 @@
 
                                         <div class="form-check py-1">
                                             <input type="checkbox" class="form-check-input" id="auth-terms-condition-check" required>
-                                            <label class="form-check-label" for="auth-terms-condition-check">Saya menyetujui <a href="javascript: void(0);" class="text-body">Syarat dan ketentuan</a></label>
+                                            <label class="form-check-label" for="auth-terms-condition-check">Saya menyetujui <a href="{{ route('terms.show') }}" class="text-primary">Syarat dan ketentuan</a></label>
                                         </div>
 
                                         <div class="mt-3">
