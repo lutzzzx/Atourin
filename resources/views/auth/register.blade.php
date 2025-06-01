@@ -94,6 +94,8 @@
                                 <script>
                                     document.write(new Date().getFullYear())
                                 </script> Leavin. Crafted with <i class="mdi mdi-heart text-danger"></i> by Upi Biy
+                                <br> 
+                                Image by <a href="https://www.freepik.com/free-vector/white-background-with-blue-tech-hexagon_4775334.htm">starline</a> on Freepik.
                             </p>
                         </div>
                     </div>
